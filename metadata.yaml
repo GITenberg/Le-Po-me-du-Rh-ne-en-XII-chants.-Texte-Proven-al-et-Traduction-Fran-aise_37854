@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Frédéric_Mistral
     - http://fr.wikipedia.org/wiki/Frédéric_Mistral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37854#Le-Po-me-du-Rh-ne-en-XII-chants.-Texte-Proven-al-et-Traduction-Fran-aise
 gutenberg_bookshelf:
 - FR Prix Nobel
 - FR Poésie
