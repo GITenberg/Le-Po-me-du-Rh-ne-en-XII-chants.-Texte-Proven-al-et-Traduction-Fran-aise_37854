@@ -1,0 +1,36 @@
+_repo: Le-Po-me-du-Rh-ne-en-XII-chants.-Texte-Proven-al-et-Traduction-Fran-aise_37854
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mistral, Frédéric
+    aliases:
+    - Mistral, Frederic
+    - Mistral, Joseph Etienne Frédéric
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '2302'
+    url: http://www.gutenberg.org/2009/agents/2302
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frédéric_Mistral
+    - http://fr.wikipedia.org/wiki/Frédéric_Mistral
+description: ''
+gutenberg_bookshelf:
+- FR Prix Nobel
+- FR Poésie
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37854'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French poetry -- 19th century'
+- !lcsh 'Provençal poetry -- 19th century'
+- !lcc 'PC'
+title: Le Poème du Rhône, en XII chants. Texte Provençal et Traduction Française
+url: http://www.gutenberg.org/ebooks/37854
